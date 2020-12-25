@@ -5,10 +5,6 @@ The function will run 99 lines of codes when the function is called.
 	the word line is NOT plural). 
 */
 
-/*
-*** Your challenge is to use the coding fundamentals you know or have learned 
-to complete the assignment given. 
-*/
 
 /*
 *** Example Output: 
@@ -20,19 +16,16 @@ John strikes one out, clears it all out,
 
 
 function lines_of_code_check(){
-	for(i = 1; i <= 99; i++){
-		console.log(i + " lines of code in the file, " + i + " lines of code; Gabe strikes one out, clears it all out... ");
+	for(i = 99; i >= 2; i--){
+		document.write(i + " lines of code in the file, " + i + " lines of code; Gabe strikes one out, clears it all out... <br>");
 	}
+
+	document.write(i + " line of code in the file, " + i + " line of code; Gabe says, \"That's all folks!\" <br>")
 }	
 
 
 lines_of_code_check();
 
-/*
-if(i = 1) {
-	console.log(i + " line of code in the file, " + i + " line of code; Gabe says, \"That's all folks!\" ")
-}
-*/
 
 
 
