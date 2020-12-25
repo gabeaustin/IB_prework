@@ -1,4 +1,4 @@
-# IB_prework
+# IB Prework
 
-### Next step(s)
-[ ] Change for loop to while loop
+### Features Requests
+[  ] Change for loop to while loop
