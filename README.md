@@ -1,4 +1,4 @@
 # IB Prework
 
 ### Features Requests
-- [ ] Change *for* loop to *while* loop
+- [x] Change *for* loop to *while* loop
